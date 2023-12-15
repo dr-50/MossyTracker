@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100vw;
+    background-color:aquamarine;
+}
+
+.container{
+    margin: 5px;
+}
+
+.weights{
+    margin: 25px;
+}
+
+.myChart{
+    height: 200px;
+}
